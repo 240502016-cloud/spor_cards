@@ -1,0 +1,131 @@
+HYBRID LEAGUE - MAÇ İSTATİSTİK RAPORU
+=============================================
+Senin Skorun: 95 | Bilgisayar Skoru: 165
+=============================================
+
+
+--- 1. TUR (Futbolcu) ---
+Seçilen Özellik: KaleciKarsiKarsiya
+Sen: Cristiano Ronaldo (93.0) vs PC: Lionel Messi (190.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 2. TUR (Basketbolcu) ---
+✨ Legend Aktif: Özellik gücü İKİ KATINA çıktı!
+Seçilen Özellik: SerbestAtis
+Sen: Stephen Curry (190.0) vs PC: Nikola Jokic (170.0)
+<font color='#2ecc71'>Turu Kazandın! (+15 Puan)
+
+--- 3. TUR (Voleybolcu) ---
+Seçilen Özellik: Smac
+Sen: Gabi Guimaraes (92.0) vs PC: Melissa Vargas (95.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 4. TUR (Futbolcu) ---
+Seçilen Özellik: SerbestVurus
+Sen: Mauro Icardi (80.0) vs PC: Lionel Messi (98.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 5. TUR (Basketbolcu) ---
+Seçilen Özellik: Ucluk
+Sen: Stephen Curry (98.0) vs PC: Nikola Jokic (85.0)
+<font color='#2ecc71'>Turu Kazandın! (+10 Puan)
+⭐ Tebrikler! Stephen Curry Seviye 2 oldu!
+
+--- 6. TUR (Voleybolcu) ---
+Seçilen Özellik: Smac
+Sen: Gabi Guimaraes (92.0) vs PC: Melissa Vargas (95.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 7. TUR (Futbolcu) ---
+Seçilen Özellik: SerbestVurus
+Sen: Mauro Icardi (80.0) vs PC: Lionel Messi (108.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 8. TUR (Basketbolcu) ---
+Seçilen Özellik: Ucluk
+Sen: Stephen Curry (103.0) vs PC: Nikola Jokic (90.0)
+⭐ Seviye atladıktan sonraki ilk galibiyet! (+5 Puan)
+<font color='#2ecc71'>Turu Kazandın! (+15 Puan)
+
+--- 9. TUR (Voleybolcu) ---
+Seçilen Özellik: Servis
+Sen: Gabi Guimaraes (77.0) vs PC: Melissa Vargas (107.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 10. TUR (Futbolcu) ---
+Seçilen Özellik: KaleciKarsiKarsiya
+Sen: Mauro Icardi (87.0) vs PC: Lionel Messi (110.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 11. TUR (Basketbolcu) ---
+Seçilen Özellik: Ikilik
+Sen: Stephen Curry (90.0) vs PC: Luka Doncic (90.0)
+- Eşitlik! Yedek özelliklere bakılıyor...
+<font color='#2ecc71'>Turu Kazandın! (+10 Puan)
+⭐ Tebrikler! Stephen Curry Seviye 3 oldu!
+
+--- 12. TUR (Voleybolcu) ---
+Seçilen Özellik: Blok
+Sen: Gabi Guimaraes (74.2) vs PC: Melissa Vargas (100.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 13. TUR (Futbolcu) ---
+Seçilen Özellik: Penaltı
+Sen: Mauro Icardi (76.0) vs PC: Lionel Messi (115.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 14. TUR (Basketbolcu) ---
+Seçilen Özellik: SerbestAtis
+Sen: Stephen Curry (110.0) vs PC: Luka Doncic (87.0)
+⭐ Seviye atladıktan sonraki ilk galibiyet! (+5 Puan)
+<font color='#2ecc71'>Turu Kazandın! (+15 Puan)
+
+--- 15. TUR (Voleybolcu) ---
+Seçilen Özellik: Servis
+Sen: Gabi Guimaraes (68.8) vs PC: Melissa Vargas (117.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 16. TUR (Futbolcu) ---
+Seçilen Özellik: KaleciKarsiKarsiya
+Sen: Mauro Icardi (77.8) vs PC: Lionel Messi (109.5)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 17. TUR (Basketbolcu) ---
+Seçilen Özellik: SerbestAtis
+Sen: Stephen Curry (99.5) vs PC: Luka Doncic (87.0)
+<font color='#2ecc71'>Turu Kazandın! (+10 Puan)
+
+--- 18. TUR (Voleybolcu) ---
+Seçilen Özellik: Smac
+Sen: Gabi Guimaraes (77.8) vs PC: Melissa Vargas (120.0)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 19. TUR (Futbolcu) ---
+Seçilen Özellik: KaleciKarsiKarsiya
+Sen: Mauro Icardi (77.8) vs PC: Lionel Messi (109.5)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 20. TUR (Basketbolcu) ---
+Seçilen Özellik: SerbestAtis
+Sen: Stephen Curry (99.5) vs PC: Nikola Jokic (81.5)
+<font color='#2ecc71'>Turu Kazandın! (+10 Puan)
+
+--- 21. TUR (Voleybolcu) ---
+Seçilen Özellik: Blok
+Sen: Gabi Guimaraes (74.2) vs PC: Melissa Vargas (100.5)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 22. TUR (Futbolcu) ---
+Seçilen Özellik: KaleciKarsiKarsiya
+Sen: Mauro Icardi (87.8) vs PC: Lionel Messi (109.5)
+<font color='#e74c3c'>Turu Kaybettin!
+
+--- 23. TUR (Basketbolcu) ---
+Seçilen Özellik: Ucluk
+Sen: Stephen Curry (102.2) vs PC: Nikola Jokic (81.5)
+<font color='#2ecc71'>Turu Kazandın! (+10 Puan)
+
+--- 24. TUR (Voleybolcu) ---
+Seçilen Özellik: Smac
+Sen: Gabi Guimaraes (78.6) vs PC: Melissa Vargas (109.5)
+<font color='#e74c3c'>Turu Kaybettin!

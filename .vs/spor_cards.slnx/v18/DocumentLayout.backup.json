@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\arayuz.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\arayuz.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\oyuncular.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\oyuncular.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\sporcular.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\sporcular.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\stratejiler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\stratejiler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\modeller.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB8D571A-C6A6-48FA-9271-EA7F83C54823}|spor_cards\\spor_cards.pyproj|solutionrelative:spor_cards\\modeller.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arayuz.py",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\arayuz.py",
+              "RelativeDocumentMoniker": "spor_cards\\arayuz.py",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\arayuz.py",
+              "RelativeToolTip": "spor_cards\\arayuz.py",
+              "ViewState": "AgIAANwCAAAAAAAAAAAAwPYCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T19:55:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "oyuncular.py",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\oyuncular.py",
+              "RelativeDocumentMoniker": "spor_cards\\oyuncular.py",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\oyuncular.py",
+              "RelativeToolTip": "spor_cards\\oyuncular.py",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T21:08:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\main.py",
+              "RelativeDocumentMoniker": "spor_cards\\main.py",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\main.py",
+              "RelativeToolTip": "spor_cards\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T20:04:51.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sporcular.csv",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\sporcular.csv",
+              "RelativeDocumentMoniker": "spor_cards\\sporcular.csv",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\sporcular.csv",
+              "RelativeToolTip": "spor_cards\\sporcular.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-18T19:55:33.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stratejiler.py",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\stratejiler.py",
+              "RelativeDocumentMoniker": "spor_cards\\stratejiler.py",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\stratejiler.py",
+              "RelativeToolTip": "spor_cards\\stratejiler.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T19:54:59.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "modeller.py",
+              "DocumentMoniker": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\modeller.py",
+              "RelativeDocumentMoniker": "spor_cards\\modeller.py",
+              "ToolTip": "C:\\Users\\mahfl\\source\\repos\\spor_cards\\spor_cards\\modeller.py",
+              "RelativeToolTip": "spor_cards\\modeller.py",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwIgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T19:54:43.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
