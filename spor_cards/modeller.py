@@ -105,7 +105,7 @@ class Futbolcu(Sporcu):
     def performansHesapla(self, ozellik_adi, takim_morali):
         temel = self.ozellikler.get(ozellik_adi, 0)
         ceza = (temel * 0.1) if 40 <= self.enerji <= 70 else ((temel * 0.2) if 0 < self.enerji < 40 else 0)
-        moral_bonusu = 5 if takim_morali >= 80 else (-5 if takim_morali <= 49 else 0)
+        moral_bonusu = 10 if takim_morali >= 90 else (5 if takim_morali >= 70 else (-5 if takim_morali < 50 else 0))
         return temel + moral_bonusu + ((self.seviye - 1) * 5) - ceza
 
 class Basketbolcu(Sporcu):
@@ -119,7 +119,7 @@ class Basketbolcu(Sporcu):
     def performansHesapla(self, ozellik_adi, takim_morali):
         temel = self.ozellikler.get(ozellik_adi, 0)
         ceza = (temel * 0.1) if 40 <= self.enerji <= 70 else ((temel * 0.2) if 0 < self.enerji < 40 else 0)
-        moral_bonusu = 5 if takim_morali >= 80 else (-5 if takim_morali <= 49 else 0)
+        moral_bonusu = 10 if takim_morali >= 90 else (5 if takim_morali >= 70 else (-5 if takim_morali < 50 else 0))
         return temel + moral_bonusu + ((self.seviye - 1) * 5) - ceza
 
 class Voleybolcu(Sporcu):
@@ -133,5 +133,5 @@ class Voleybolcu(Sporcu):
     def performansHesapla(self, ozellik_adi, takim_morali):
         temel = self.ozellikler.get(ozellik_adi, 0)
         ceza = (temel * 0.1) if 40 <= self.enerji <= 70 else ((temel * 0.2) if 0 < self.enerji < 40 else 0)
-        moral_bonusu = 5 if takim_morali >= 80 else (-5 if takim_morali <= 49 else 0)
+        moral_bonusu = 10 if takim_morali >= 90 else (5 if takim_morali >= 70 else (-5 if takim_morali < 50 else 0))
         return temel + moral_bonusu + ((self.seviye - 1) * 5) - ceza
